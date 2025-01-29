@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+programareceitasocultas.com.br	TRUE	/	FALSE	1999999999	wpr_guest_token	8f5e8cd4930526b655ed4556e82721328d29ac09848d8eb98dd577fb2dabaf99
+
